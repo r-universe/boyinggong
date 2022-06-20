@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MethCP"]
+	path = MethCP
+	url = https://github.com/boyinggong/methcp
+	shallow = true
+	registered = true
